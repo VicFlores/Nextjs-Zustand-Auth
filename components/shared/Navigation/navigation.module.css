@@ -1,0 +1,18 @@
+.navigation {
+  color: white;
+}
+
+.navigation ul {
+  margin: 2rem 0;
+}
+
+.navigation a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.navigation a:hover {
+  border-bottom: 1px solid currentColor;
+  padding-bottom: 5px;
+}
